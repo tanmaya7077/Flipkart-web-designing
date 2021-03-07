@@ -1,2 +1,5 @@
-# Flipkart-web-designing
-To create flipkart web pages using html and css
+# Flipkart.nic.in
+Flipkart website useing html and css.
+This website use to ur shopping purpose.
+Enjooy go to this website.
+Wellcome..
